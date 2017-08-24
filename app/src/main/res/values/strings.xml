@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str_btn_1">ok</string>
+    <string name="str_2">jcvnc</string>
+    <string name="str_1">xcdfg</string>
+    <string name="str_btn_2">ddf</string>
+    <string name="app_n">Nombre</string>
+    <string name="app_c">Correo</string>
+    <string name="str_btn_3">Opciones</string>
+    <string name="str_bnt1">Aceptar</string>
+</resources>
