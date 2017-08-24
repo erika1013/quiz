@@ -9,18 +9,67 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-            <ImageView
-                android:layout_width=""
-                android:layout_height="" />
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <!--informacion de la 3 seccion-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="15sp"
+                >
 
-        </>
+                <ImageView
+                    android:id="@+id/img_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ic_person_black_24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:foregroundGravity="center"
+                    />
+                <LinearLayout
+                    android:id="@+id/ll_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="1">
+                    <TextView
+                        android:id="@+id/tv_9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/txt_1"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        />
+
+                    <TextView
+                        android:id="@+id/tv_10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/txt_3"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:layout_below="@id/tv_9"
+                        />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+
+            <!-- copia de la informacion de la 3 seccion-->
 
 
 
 
+
+        </LinearLayout>
     </ScrollView>
 
 

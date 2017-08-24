@@ -1,11 +1,24 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="str_btn_1">ok</string>
-    <string name="str_2">jcvnc</string>
-    <string name="str_1">xcdfg</string>
-    <string name="str_btn_2">ddf</string>
-    <string name="app_n">Nombre</string>
-    <string name="app_c">Correo</string>
-    <string name="str_btn_3">Opciones</string>
-    <string name="str_bnt1">Aceptar</string>
+    <string name="app_name">Profile</string>
+    <string name="tex_2">Adele Laurie Blue </string>
+    <string name="tex_3">Tottenham, Londres, Reino Unido</string>
+    <string name="tex_4">42</string>
+    <string name="tex_5">Stories</string>
+    <string name="tex_6">517</string>
+    <string name="tex_7">Followers</string>
+    <string name="tex_8">284</string>
+    <string name="tex_9">Following</string>
+    <string name="txt_3seccion1">I just returnes from italy,visiting Rome,Venecie over the course of two weeks.I went with my..</string>
+    <string name="txt_3seccion2">My trip to italy</string>
+    <string name="txt_3seccion3">Amazing story of a faithful dog</string>
+    <string name="txt_3seccion4">Amazing story of a faithful dog</string>
+    <string name="txt_3seccion5">Jasmine became famous for playing mother over thr years to puppies,foxes,a fawn,4...</string>
+    <string name="txt_3seccion6">My thoughts, prayers and tears for all those affected by the Manchester tragedy tonight. I\'m sending all my love.</string>
+    <string name="txt_3seccion7">Taylor Swift</string>
+    <string name="txt_3seccion8">The Big Bang Theory</string>
+    <string name="txt_3seccion9">A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.</string>
+    <string name="txt_3seccion10">Mario Casas</string>
+    <string name="txt_3seccion11">Mario Casas is very important actor in Spain. He was born in A Coruña on June 12 of 1986,</string>
+    <string name="txt_1">MIKE</string>
+    <string name="txt_3">HOLAAA</string>
 </resources>
